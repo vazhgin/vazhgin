@@ -11,4 +11,5 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-white?style=for-the-badge&logo=Devtools&logoColor=65C179)
 
 
-follow me
+### follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/agonysia)
