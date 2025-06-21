@@ -1,7 +1,7 @@
-header
+Header
 
-about me
+About me
 
-languages and tools
+Languages and tools
 
-follow me
+Follow me
