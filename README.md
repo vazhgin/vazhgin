@@ -2,7 +2,7 @@
 
 ## I'm a QA Engineer
 
-### languages and tools
+### qa engineer's tools
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=F05032)
 ![Postman](https://img.shields.io/badge/-Postman-white?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1)
@@ -12,7 +12,7 @@
 ![MC_Excel](https://img.shields.io/badge/-MC_Excel-white?style=for-the-badge&logo=Excel&logoColor=65C179)
 
 
-### follow me
+### social networks
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/agonysia)
 [![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/unkn0o0w)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=0077FF)](https://www.linkedin.com/in/oxcdnzy/)
