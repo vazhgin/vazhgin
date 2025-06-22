@@ -13,6 +13,5 @@
 
 
 ### social networks
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/agonysia)
-[![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=VK&logoColor=0077FF)](https://vk.com/unkn0o0w)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0077FF)](https://www.linkedin.com/in/oxcdnzy/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/agonysia)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/oxcdnzy/)
