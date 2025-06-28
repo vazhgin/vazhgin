@@ -2,7 +2,7 @@
 
 ## I'm a QA Engineer
 
-### qa engineer's tools
+### using tools
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=F05032)
 ![Postman](https://img.shields.io/badge/-Postman-white?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1)
