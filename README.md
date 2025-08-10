@@ -9,8 +9,9 @@
 ![Jira](https://img.shields.io/badge/-Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC)
 ![Testrail](https://img.shields.io/badge/-Testrail-white?style=for-the-badge&logo=Testrail&logoColor=65C179)
 ![DevTools](https://img.shields.io/badge/-DevTools-white?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
-![MC_Excel](https://img.shields.io/badge/-MC_Excel-white?style=for-the-badge&logo=Excel&logoColor=65C179)
-
+![Selenium](https://img.shields.io/badge/-Selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![PyCharm](https://img.shields.io/badge/-PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=000000)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### social networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/oxycodoneezy)
