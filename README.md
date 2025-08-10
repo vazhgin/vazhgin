@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Jira](https://img.shields.io/badge/-Jira-white?style=for-the-badge&logo=Jira&logoColor=0052CC)
 ![Testrail](https://img.shields.io/badge/-Testrail-white?style=for-the-badge&logo=Testrail&logoColor=65C179)
-![DevTools](https://img.shields.io/badge/-DevTools-white?style=for-the-badge&logo=Devtools&logoColor=65C179)
+![DevTools](https://img.shields.io/badge/-DevTools-white?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
 ![MC_Excel](https://img.shields.io/badge/-MC_Excel-white?style=for-the-badge&logo=Excel&logoColor=65C179)
 
 
