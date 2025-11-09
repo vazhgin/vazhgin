@@ -12,6 +12,8 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-white?style=for-the-badge&logo=pycharm&logoColor=000000)
 ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3776AB)
+![Swagger](https://img.shields.io/badge/-Swagger-white?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Figma](https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ### social networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/oxycodoneezy)
