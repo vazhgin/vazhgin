@@ -1,6 +1,6 @@
 ![Header](https://github.com/vazhgin/vazhgin/blob/main/assets/photo_2025-06-21_14-09-19.jpg)
 
-## Software QA Engineer (Full-Stack)
+## QA Engineer
 
 ### using tools
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git&logoColor=F05032)
